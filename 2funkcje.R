@@ -29,5 +29,3 @@ przyznaj_nagrode = function() {
     komunikat = "Brak nagrody..."
   return(komunikat)
 }
-
-przyznaj_nagrode()
