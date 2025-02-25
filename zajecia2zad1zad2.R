@@ -76,4 +76,3 @@ frequent_terms <- freq_terms(text)
 frequent_terms
 frequent_terms <- freq_terms(text, stopwords = Top200Words)
 plot(frequent_terms)
-
